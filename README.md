@@ -10,7 +10,7 @@
 QQ群：866828944
 
 ## 演示Demo
-详见 [huankemao-php](https://gitee.com/huankemao/huankemao-php)
+详见 [huankemao-php](https://github.com/huankemao/huankemao-php)
 
 #### 安装部署
 
@@ -24,7 +24,7 @@ QQ群：866828944
     $ npm run build
     ```
 
-3.  将dist目录下的所有文件拷贝至[huankemao-php](https://gitee.com/huankemao/huankemao-php)的/public/chat-tool路径下
+3.  将dist目录下的所有文件拷贝至[huankemao-php](https://github.com/huankemao/huankemao-php)的/public/chat-tool路径下
 
 ## 文档
 - 用户手册 [https://huankemao.com/docs/index.html](https://huankemao.com/docs/index.html)
