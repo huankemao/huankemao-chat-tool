@@ -1,0 +1,23 @@
+{
+  "id": "2120913",
+  "name": "11",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2075246",
+      "name": "安卓",
+      "font_class": "anzhuo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11776583",
+      "name": "ios",
+      "font_class": "ios",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
