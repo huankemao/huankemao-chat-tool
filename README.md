@@ -14,22 +14,22 @@ QQ群：866828944
 
 #### 安装部署
 
-1. 选择淘宝的镜像
+1.  选择淘宝的镜像
     ```
     $ npm config set registry=http://registry.npm.taobao.org
     ```
     
-2. 下载依赖
+2.  下载依赖
     ```
     $ npm install
     ```
 
-3. 编译打包
+3.  编译打包
     ```
     $ npm run build
     ```
 
-4. 将dist目录下的所有文件拷贝至[huankemao-php](https://github.com/huankemao/huankemao-php)的/public/chat-tool路径下
+4.  将dist目录下的所有文件拷贝至[huankemao-php](https://github.com/huankemao/huankemao-php)的/public/chat-tool路径下
 
 ## 文档
 - 用户手册 [https://huankemao.com/docs/index.html](https://huankemao.com/docs/index.html)
